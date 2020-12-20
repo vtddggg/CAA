@@ -41,7 +41,7 @@ Collect [adv. training models](https://www.dropbox.com/s/1zazwjfzee7c8i4/cifar_l
 ```
 python test_attacker.py --batch_size 384 --dataset cifar10 --net_type madry_adv_resnet50_l2 --norm l2 --max_epsilon 0.5
 ```
-*For this implementation, we are not testing for L2 Attack due to the much long elapsed time, so there may exists some bugs in L2 attack case*
+*For this implementation, the codes are not passing a fully test for L2 Attack due to the much long elapsed time, so there may exists some bugs in L2 attack case*
 
 ### Define a custom attack
 Your can define arbitrary attack policies by giving a list of attacker dict:
