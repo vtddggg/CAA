@@ -57,10 +57,10 @@ Now this code supports attackers as follows:
 - PGD_Attack_adaptive_stepsize
 - MI_Attack_adaptive_stepsize
 - CWLinf_Attack_adaptive_stepsize
+- MultiTargetedAttack
 - ODI_Cos_stepsize
 - ODI_Cyclical_stepsize
 - ODI_Step_stepsize
-- MultiTargetedAttack
 - CWL2Attack
 - DDNL2Attack
 - GaussianBlurAttack
