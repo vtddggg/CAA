@@ -1,5 +1,5 @@
 # CAA
-This is the Pytorch implementation of our AAAI2021 paper [Composite Adversarial Attacks](https://arxiv.org/abs/2012.05434)
+This is the Pytorch implementation of the AAAI2021 paper [Composite Adversarial Attacks](https://arxiv.org/abs/2012.05434)
 
 ## Pre-requisites
 - torch >= 1.3.0
